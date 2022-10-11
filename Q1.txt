@@ -2,6 +2,7 @@
 using namespace std;
 int main()
 {
+cout<<"Q1"<<endl;
     string s="aaaaabbbbcccd";
     string str="";
     int n= s.length();
